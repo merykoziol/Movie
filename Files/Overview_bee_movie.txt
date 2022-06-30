@@ -1,0 +1,3 @@
+MOVIE OVERVIEW:
+Word 'bee' occurrence 140 times in this movie
+Movie keywords: ['like', 'know', 'honey', 'could', 'thinking', 'bees', 'think', 'make', 'going', 'little', 'would', 'want', 'talking', 'work', 'never']

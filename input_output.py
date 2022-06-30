@@ -1,0 +1,1 @@
+import os.pathdef get_text_from_file(file):    file = os.path.join("Files", file)    with open(file, 'r') as f:        text = f.read()    f.close()    return textdef save_text_in_file(file_name, save_text):    file = os.path.join("Files", file_name + ".txt")    with open(file, 'w') as f:        f.write(save_text)    f.close()
